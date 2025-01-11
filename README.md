@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @domi385
-- 👀 I’m interested in ... IT, programming, cars and sports
+- 👀 I’m interested in ... IT, programming
 - 🌱 I’m currently learning ... C++, HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
