@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @domi385
-- 👀 I’m interested in ... IT, programming
-- 🌱 I’m currently learning ... C++, HTML, CSS, JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Dominik
+## I'm a Junior Programmer
 
-<!---
-domi385/domi385 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently I'm learning mostly C++ and PHP
