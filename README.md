@@ -29,7 +29,7 @@ Uwielbiam pisać czysty, działający kod i kombinować z tym, żeby wszystko ś
 
 📫 Możesz mnie złapać tutaj:
 
-- Instagram: [@domi385](https://instagram.com/domino29127)  
+- Instagram: [@domino29127](https://instagram.com/domino29127)  
 - Mail: dominik.ladnowski@outlook.com
 
 ---
