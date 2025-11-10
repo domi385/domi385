@@ -1,46 +1,33 @@
 # Cześć, jestem Dominik! 👋
 
-Jestem technikiem-programistą z zajawką na **PHP**, backend i bazy danych.  
-Uwielbiam pisać czysty, działający kod i kombinować z tym, żeby wszystko śmigało bez jebania.
+Jestem technikiem-programistą z zajawką na **backend i fullstack development**.  
+Lubię pisać czysty, działający kod i budować systemy, które faktycznie działają i mają sens.
 
 ---
 
-## Co umiem?
+## Umiejętności
 
-- **PHP** – od prostych skryptów po całkiem spore projekty  
-- Backend development – logika, API, autoryzacje, sesje, PDO i cała ta jazda  
-- Bazy danych – głównie **PostgreSQL**, ale ogarniam też MySQL  
-- Frontend – podstawy HTML/CSS, bo bez tego ani rusz  
-- Git – kod trzymam na tip-top, a pushuję bez spiny  
-- Linux – mój serwer działa na Fedorze, więc trochę tam się kręcę
+- **Backend** – projektowanie API, logika biznesowa, autoryzacja, sesje  
+- **Bazy danych** – głównie **PostgreSQL**, trochę MySQL, potrafię pisać zapytania i je optymalizować
+- **Frontend** – Qt Desktop, Mobile, Web
+- **PHP & Node.js** – głównie do backendu  
+- **Git** – kontrola wersji i workflow  
+- **Linux** – administracja serwerem, konfiguracja środowisk developerskich  
 
 ---
 
 ## Co mnie kręci?
 
-- Optymalizacja kodu i debugowanie błędów (to jest dopiero jazda!)  
-- Nauka nowych technologii i praktyczne projekty  
-- Pisanie rzeczy, które naprawdę działają i mają sens  
-- Rozwój umiejętności i rozwalanie bugów jak prawdziwy ninja  
+- Rozwiązywanie problemów i debugowanie kodu  
+- Optymalizacja aplikacji i baz danych  
+- Tworzenie projektów, które działają w praktyce  
+- Nauka nowych technologii i rozwój umiejętności  
 
 ---
 
 ## Kontakt
 
-📫 Możesz mnie złapać tutaj:
+📫 Możesz się ze mną skontaktować tutaj:
 
 - Instagram: [@domino29127](https://instagram.com/domino29127)  
-- Mail: dominik.ladnowski@outlook.com
-
----
-
-## Projekty
-
-Więcej moich projektów znajdziesz na GitHubie — to mój kod, moja duma!
-
----
-
-**Dzięki, że zajrzałeś!**  
-Jeśli masz ochotę pogadać o kodzie albo rzucić pomysł, śmiało wal do mnie.
-
----
+- Mail: dominik.ladnowski@outlook.com  
