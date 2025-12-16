@@ -15,7 +15,7 @@ Poniżej znajdziesz technologie, z którymi pracuję najczęściej lub które ob
 | Kategoria | Technologie |
 | :--- | :--- |
 | **Główne Języki** | C++, Kotlin, PHP, Python, JavaScript, SQL |
-| **Frameworki** | Laravel (PHP) |
+| **Frameworki** | Laravel (PHP), Qt C++ |
 | **Systemy/DevOps** | Git |
 
 #### 🛠️ W czym czuję się najlepiej?
