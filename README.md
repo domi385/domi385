@@ -1,4 +1,4 @@
-# Cześć! Jestem Łysy (domi385) 👋
+# Cześć! Jestem Dominik 👋
 
 ### 🚀 Uczeń technikum | Samouk | Pasjonat Backendu i Aplikacji Mobilnych
 
@@ -54,7 +54,3 @@ Masz ciekawy projekt, pytanie o technikum, backend, czy chcesz po prostu pogada�
 </p>
 
 ***
-
-### 📈 Statystyki GitHub
-
-> *Możesz dodać sekcję ze swoimi statystykami, aby pokazać aktywność. Wystarczy, że wkleisz poniższe linie:*
